@@ -1,0 +1,14 @@
+sudo apt install udo
+Do you want to install it? (N/y)y
+sudo apt install udo
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+You might want to run 'apt --fix-broken install' to correct these.
+The following packages have unmet dependencies:
+ mongodb-org-tools : Depends: mongodb-database-tools but it is not installable
+E: Unmet dependencies. Try 'apt --fix-broken install' with no packages (or specify a solution).
+
+
+
+thats what it kleeps telling me
